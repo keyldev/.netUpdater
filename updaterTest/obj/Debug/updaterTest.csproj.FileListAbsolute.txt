@@ -1,0 +1,15 @@
+C:\Users\skeych\Desktop\projects\updaterTest\updaterTest\bin\Debug\updaterTest.exe.config
+C:\Users\skeych\Desktop\projects\updaterTest\updaterTest\bin\Debug\updaterTest.exe
+C:\Users\skeych\Desktop\projects\updaterTest\updaterTest\bin\Debug\updaterTest.pdb
+C:\Users\skeych\Desktop\projects\updaterTest\updaterTest\obj\Debug\MainWindow.g.cs
+C:\Users\skeych\Desktop\projects\updaterTest\updaterTest\obj\Debug\App.g.cs
+C:\Users\skeych\Desktop\projects\updaterTest\updaterTest\obj\Debug\updaterTest_MarkupCompile.cache
+C:\Users\skeych\Desktop\projects\updaterTest\updaterTest\obj\Debug\updaterTest_MarkupCompile.lref
+C:\Users\skeych\Desktop\projects\updaterTest\updaterTest\obj\Debug\MainWindow.baml
+C:\Users\skeych\Desktop\projects\updaterTest\updaterTest\obj\Debug\updaterTest.g.resources
+C:\Users\skeych\Desktop\projects\updaterTest\updaterTest\obj\Debug\updaterTest.Properties.Resources.resources
+C:\Users\skeych\Desktop\projects\updaterTest\updaterTest\obj\Debug\updaterTest.csproj.GenerateResource.cache
+C:\Users\skeych\Desktop\projects\updaterTest\updaterTest\obj\Debug\updaterTest.csproj.CoreCompileInputs.cache
+C:\Users\skeych\Desktop\projects\updaterTest\updaterTest\obj\Debug\updaterTest.exe
+C:\Users\skeych\Desktop\projects\updaterTest\updaterTest\obj\Debug\updaterTest.pdb
+C:\Users\skeych\Desktop\projects\updaterTest\updaterTest\obj\Debug\updaterTest.csprojAssemblyReference.cache
